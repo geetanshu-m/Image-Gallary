@@ -1,1 +1,87 @@
-body{  background-color: black;  color: white;}#header div{  border: none;  border-bottom: 1px solid;}#title{  margin-left: 30px;}.main{}#down{  width:100%;}#sidebar{  width:20%;  height:800px;  float: left;  border-right: 1px solid;}#body{  width:79%;  height:100%;  float: right;}ul{  list-style-type: none;}li{  margin-bottom: 30px;}li a{  font-  font-color:white;  font-size:20px;}li a:hover{  font-weight: bolder;  font-style: italic;  font-family: times;  font-size: 30px;}#img_m{         margin-right: auto;         margin-left: auto;          height:400px;         width: 600px;         margin-top: 20px;         margin-bottom: 20px;      }      #img_m img{         height:400px;         width: 600px;         border-radius: 20px;         border:2px solid;         margin: 2px;      }#body1{         align-items: center;         white-space: nowrap;         overflow: auto;         margin-top: 20px;      }      #body1 img{         width : 300px;         height: 200px;         padding: 5px;         margin-left: 5px;      }      #body1 img:hover{         border-radius: 10px;         border:2px solid red;      }#description{  margin-top: 10px;  text-align: center;  border:1px solid;}i{  font-size: 72px;}button{  border-radius: 50%;}
+body{
+  background-color: black;
+  color: white;
+}
+#header div{
+  border: none;
+  border-bottom: 1px solid;
+}
+#title{
+  margin-left: 30px;
+}
+.main{
+}
+#down{
+  width:100%;
+}
+#sidebar{
+  width:20%;
+  height:800px;
+  float: left;
+  border-right: 1px solid;
+}
+#body{
+  width:79%;
+  height:100%;
+  float: right;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  margin-bottom: 30px;
+}
+li a{
+  font-
+  font-color:white;
+  font-size:20px;
+}
+li a:hover{
+  font-weight: bolder;
+  font-style: italic;
+  font-family: times;
+  font-size: 30px;
+}
+#img_m{
+         margin-right: auto;
+         margin-left: auto;
+          height:400px;
+         width: 600px;
+         margin-top: 20px;
+         margin-bottom: 20px;
+      }
+      #img_m img{
+         height:400px;
+         width: 600px;
+         border-radius: 20px;
+         border:2px solid;
+         margin: 2px;
+      }
+#body1{
+         align-items: center;
+         white-space: nowrap;
+         overflow: auto;
+         margin-top: 20px;
+
+      }
+      #body1 img{
+         width : 300px;
+         height: 200px;
+         padding: 5px;
+         margin-left: 5px;
+      }
+      #body1 img:hover{
+         border-radius: 10px;
+         border:2px solid red;
+      }
+#description{
+  margin-top: 10px;
+  text-align: center;
+  border:1px solid;
+}
+i{
+  font-size: 72px;
+}
+button{
+  border-radius: 50%;
+}
